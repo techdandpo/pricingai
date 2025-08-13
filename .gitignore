@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit app settings
+.streamlit/
+
+# Virtual environments
+.venv/
+env/
+ENV/
+venv/
+
+# Environment variables
+.env
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Git internal files (should not be ignored — removing .git/ here)
+# .gitignore itself should not be ignored
